@@ -1,0 +1,99 @@
+{
+	"match": {
+		"hteam": {
+			"name": "team1"
+		},
+		"ateam": {
+			"name": "team2"
+		}
+	},
+	"hteamHistory" : [
+		{
+			"hteam": {
+				"name": "team3"
+			},
+			"ateam": {
+				"name": "team1"
+			},
+			"result":{
+				"fullTime": {
+		        	"home": 4,
+		        	"away": 2
+				}
+			}	
+		},
+		{
+			"hteam": {
+				"name": "team1"
+			},
+			"ateam": {
+				"name": "team2"
+			},
+			"result":{
+				"fullTime": {
+		        	"home": 2,
+		        	"away": 1
+				}
+			}	
+		},
+		{
+			"hteam": {
+				"name": "team1"
+			},
+			"ateam": {
+				"name": "team4"
+			},
+			"result":{
+				"fullTime": {
+		        	"home": 1,
+		        	"away": 1
+				}
+			}	
+		},
+		{
+			"hteam": {
+				"name": "team1"
+			},
+			"ateam": {
+				"name": "team2"
+			},
+			"result":{
+				"fullTime": {
+		        	"home": 1,
+		        	"away": 3
+				}
+			}	
+		}
+	],
+	"ateamHistory": [
+		{
+			"hteam": {
+				"name": "team1"
+			},
+			"ateam": {
+				"name": "team2"
+			},
+			"result":{
+				"fullTime": {
+		        	"home": 2,
+		        	"away": 1
+				}
+			}	
+		},
+		{
+			"hteam": {
+				"name": "team1"
+			},
+			"ateam": {
+				"name": "team2"
+			},
+			"result":{
+				"fullTime": {
+		        	"home": 2,
+		        	"away": 1
+				}
+			}	
+		}
+	]
+	
+}
